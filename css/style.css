@@ -1,3 +1,10 @@
-.e-learner-company-img{
-    height: 24px;
+
+.e-learner-footer{
+    height: 300px;
+}
+.e-learner-social-icon{
+    color: white;
+}
+.e-learner-hidden-section{
+    display: none;
 }
