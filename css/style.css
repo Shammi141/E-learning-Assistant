@@ -1,4 +1,9 @@
-
+.e-learner-cover-img-height{
+    height: 570px;
+}
+.e-learner-img-opacity{
+    filter: brightness(60%);
+}
 .e-learner-footer{
     height: 300px;
 }
